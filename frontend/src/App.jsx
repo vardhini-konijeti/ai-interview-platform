@@ -389,7 +389,7 @@ export default function App() {
             style={{ display: 'flex', alignItems: 'center', gap: '10px', cursor: 'pointer' }}
           >
             <div style={{ width: '12px', height: '12px', borderRadius: '50%', background: '#6366f1', boxShadow: '0 0 12px #6366f1' }}></div>
-            <span style={{ fontWeight: '800', letterSpacing: '0.5px', fontSize: '18px', color: colors.textColor }}>InterviewPrep Pro</span>
+            <span style={{ fontWeight: '800', letterSpacing: '0.5px', fontSize: '18px', color: colors.textColor }}>HirePrep</span>
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
